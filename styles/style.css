@@ -1,0 +1,69 @@
+body {
+	background-image: url(../images/background-alt-blur.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: auto;
+	min-height: 100vh;
+	font-family: 'aaux-next' san-serif;
+}
+
+.logo {
+	margin-top: 16vh;
+	padding-bottom: 40px;
+}
+
+.inverse {
+	color: white;
+}
+
+h1 {
+	font-family: 'aaux-next' san-serif;
+	font-weight: 300;
+	font-size: 4rem;
+
+}
+
+h3 {
+	margin-top:15px;
+	margin-bottom: 2px;
+}
+
+p {
+	font-family: 'aaux-next' san-serif;
+	font-weight: 400;
+	font-size: 1.2rem;
+}
+
+address {
+	font-size: 1.8rem;
+}
+
+.btn-xl {
+	font-size: 1.8rem;
+	width: 200px;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	padding: 15px 0;
+	color: white;
+	border: 1px solid white;
+	transition: linear .1s all;
+	border-radius: 0;
+}
+
+.btn-xl:hover {
+	background-color: #29bc3a;
+	border: 1px solid #29bc3a;
+	transition: linear .1s all;
+	color: white;
+	border-radius: 0;
+}
+
+.cta {
+	margin-top: 40px;
+}
+
+hr {
+	margin-top: 40px;
+}
